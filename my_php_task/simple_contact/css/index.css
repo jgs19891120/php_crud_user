@@ -1,0 +1,33 @@
+body{
+    padding-left: 35%;padding-top: 15%;
+}
+
+form {
+    border: 2px solid #e7e7e7;
+    border-radius: 4px;
+    width:400px;
+}
+
+input {
+     border-radius: 4px;
+}
+
+button{
+ border-radius: 4px;
+ background-color: #008CBA;
+ margin-bottom: 5%; 
+}
+a,
+a:hover,
+a:focus{
+    text-decoration: none;
+    color: black;
+}
+
+.login_btn {
+    margin-left: 1%;
+}
+
+.register_btn{
+    margin-left: 15%;
+}

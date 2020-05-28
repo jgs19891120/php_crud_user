@@ -1,0 +1,40 @@
+ 
+        table tr td:last-child a{
+            margin-right: 15px;
+        }
+        #persons_table{
+            border: 2px solid #e7e7e7;
+            border-radius: 8px;
+        }
+        
+        #deleted_display{
+             border: 2px solid #e7e7e7;
+            border-radius: 8px;
+        }
+       /* #dtBasicExample  {height: 250px;       
+                    overflow-y: auto;    
+                    overflow-x: hidden;
+                    display: block;
+        }
+        #deleted_users {height: 50px;      
+                    overflow-y: auto;    
+                    overflow-x: hidden;
+                    display: block;
+        }            */
+        
+       .column_sort{
+           color: black;
+       }
+       
+       #deleted_table{
+        max-height: 100px;
+        overflow: auto;
+        overflow-x: hidden;
+        } 
+        
+        #person_table{
+            max-height: 150px;
+            overflow: auto;
+            overflow-x: hidden;
+        } 
+        

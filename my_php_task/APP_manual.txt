@@ -1,0 +1,7 @@
+﻿step1. Run "create_db.php" file, so create MYSQL database for this app.
+step2. Run "index.php", you can see first page for login like picture login_interface.png
+step3. Click register button, must registrate all input boxes like username password, name...etc.
+step4. Sign up with own username and password, move main page(picture:main_interface.png)
+step5. Can operate add, sort(click all fields of the table) , edit(include own account), 
+       delete(only administrator-if you are user method, can chanage in to administator method).
+step6. Click log out button to cancel this app.

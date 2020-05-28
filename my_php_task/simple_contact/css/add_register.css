@@ -1,0 +1,20 @@
+body{ padding-left: 35%;padding-top: 15px; }
+         form {
+                    border: 2px solid #e7e7e7;
+                    border-radius: 4px;
+                    width:400px;;
+                    padding-left: 10%
+                }
+               
+       input {border-radius: 4px; height:auto; margin-top: 15px; margin-left: 5%;}
+       input[name="email"]{margin-left: 18%;}
+       input[name="position"]{margin-left: 14%;}
+       input[name="organization"]{margin-left: 6%;}
+       input[name="last_name"]{margin-left: 10%;}
+       input[name="first_name"]{margin-left: 10%;}
+       input[name="password"]{margin-left: 13%;}
+       input[name="username"]{margin-left: 12%;}
+       input[name="submit"]{margin-left: 12%; margin-bottom: 15px;}
+       input[name="clear"]{margin-left: 15%; margin-bottom: 15px;}
+       
+       select{margin-top: 15px;}
